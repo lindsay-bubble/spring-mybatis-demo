@@ -1,0 +1,4 @@
+rootProject.name = 'angelhack'
+include 'angelhack-api'
+include 'angelhack-tool'
+
